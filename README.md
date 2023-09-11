@@ -3,8 +3,8 @@
 An easy-to-use web application for taking, saving, and managing notes.
 
 ## Application Screenshot
-![1st Screenshot of the Application](/public/assets/images/notetaker%20ss1.png)
-![2nd Screenshot of the Application](/public/assets/images/notetaker%20ss.png)
+[1st Screenshot of the Application](/public/assets/images/notetaker%20ss1.png)
+[2nd Screenshot of the Application](/public/assets/images/notetaker%20ss.png)
 
 ## Table of Contents
 - [Deployed App](#deployed-app)
