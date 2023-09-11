@@ -20,15 +20,15 @@ class Store {
     // returns all notes as an array
     getNotes() {
         return this.read().then((notes) => {
-            let notes;
+            let parNotes;
 
             try {
-                notes = [].concat(JSON.parse(notes));
+                parNotes = [].concat(JSON.parse(notes));
             } catch (err) {
-                notes = [];
+                parNotes = [];
             }
 
-            return notes;
+            return parNotes;
         });
     }
 
