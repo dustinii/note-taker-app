@@ -9,12 +9,9 @@ router.get('/notes', (req, res) =>
 
 // POST Route for submitting feedback
 router.post('/notes', (req, res) => {
-  // Destructuring assignment for the items in req.body
   const { title, text } = req.body;
 
-  // If all the required properties are present
   if (title && text) {
-    // Variable for the object we will save
     const newNote = {
       title,
       text,
