@@ -19,7 +19,7 @@ An easy-to-use web application for taking, saving, and managing notes.
 Visit the live application here:
 [GitHub](https://dustinii.github.io/note-taker-app/)
 or here:
-[Heroku]()
+[Heroku](https://glacial-hamlet-39652-5e94cee3f641.herokuapp.com/)
 
 ## Installation
 
