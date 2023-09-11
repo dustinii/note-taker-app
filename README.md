@@ -25,7 +25,7 @@ or here:
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/note-taker-app.git
+   git clone https://github.com/dustinii/note-taker-app.git
    ```
 
 2. Navigate to the project directory:
